@@ -1,0 +1,22 @@
+﻿
+table, th, td {
+    border: 1px solid black;
+}
+
+h1 { 
+    text-align:center;
+}
+
+div.tableau {
+    margin-top: 5px ;
+}
+
+div.infos { 
+    display:flex ;
+    flex-direction:row ;
+    justify-content:space-around;
+}
+
+div.tableau { 
+    margin-top:100px;
+}
